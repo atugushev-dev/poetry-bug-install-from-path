@@ -1,0 +1,20 @@
+[[package]]
+category = "main"
+description = ""
+develop = true
+name = "bar"
+optional = false
+python-versions = "^3.8"
+version = "0.1.0"
+
+[package.source]
+reference = ""
+type = "directory"
+url = "deps/bar"
+
+[metadata]
+content-hash = "bc81304e81eded4ef4c6b30f482e5fdce49e3af6537e522a0b5ce006aeafd956"
+python-versions = "^3.8"
+
+[metadata.files]
+bar = []
